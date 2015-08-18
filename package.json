@@ -11,7 +11,7 @@
     "metalsmith",
     "lazysizes"
   ],
-  "author": "Sam Deere / colophonemes",
+  "author": "Sam Deere / colophonemes <dev@colophonemes.com>",
   "license": "ISC",
   "dependencies": {
     "lwip": "0.0.7",
