@@ -1,12 +1,12 @@
 {
   "name": "metalsmith-lazysizes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrap images in lazysizes markup and create image versions",
   "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":"https://github.com/colophonemes/metalsmith-lazysizes",
+  "repository": "https://github.com/colophonemes/metalsmith-lazysizes",
   "keywords": [
     "metalsmith",
     "lazysizes"
