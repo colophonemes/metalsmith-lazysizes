@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-lazysizes",
-  "version": "0.3.0",
+  "version": "0.1.4",
   "description": "Wrap images in lazysizes markup and create image versions",
   "main": "./lib/index.js",
   "scripts": {
